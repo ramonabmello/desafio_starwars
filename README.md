@@ -9,7 +9,7 @@ Develope an API that contains planets data of Star Wars universe for a game.
 
 ```
 git clone git@github.com:ramonamello/desafio_starwars.git
-cd desafio_captura
+cd desafio_starwars
 python -m venv .venv
 source .venv/bin/activate
 # for install production requirements
