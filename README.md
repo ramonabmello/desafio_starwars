@@ -12,10 +12,7 @@ git clone git@github.com:ramonamello/desafio_starwars.git
 cd desafio_starwars
 python -m venv .venv
 source .venv/bin/activate
-# for install production requirements
-make pip
-# for run the quality and unit tests
-make run_tests
-# for run the app
-make run_api
+make pip  ## for install production requirements
+make run_tests  ## for run the quality and unit tests
+make run_api  ## for run the app
 ```
